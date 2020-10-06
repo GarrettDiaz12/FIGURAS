@@ -28,14 +28,8 @@ import java.awt.BorderLayout;
 	import javax.swing.JLabel;
 	import javax.swing.JPanel;
   ------------------------------------------------------------------------------------------------------------------------------------------ 
-En esta clase es donde se crear los botones para poder poner su tamaño también se crea como tal la interfaz y los métodos los cuales nos 
-permiten hacer las acciones de dibujar las figuras, rellenar de color las figuras, dejarlas sin relleno como el tipo de figura que se creara 
-y los métodos de eliminar la última figura como todas las figuras ya que para poder hacer el método de eliminar una imagen antes se utilizó la 
-ayuda de una pila para facilitar el procedimiento como para así saber cuál fue la última figura creada como tal pero los métodos más importantes 
-para mi punto de vista fue la implementación de mouseReleased, MouseMotionListener, mouseDragged ya esto nos permite dibujar las figuras en cualquiera
-parte de la ventana con ayuda del mouse y las coordenadas ya que nos ayuda mucho para al momento de hacer es de demasiada ayuda para poder hacer click 
-arrastra el mouse hasta donde queremos dibujar la figura y hasta soltar se accionara para que se cree la figura y al soltar el se pueda dibujar de manera 
-satisfactoria  de igual amnera utlize un arreglo para la el combox asi asignarle la posision de etique para la figura como para los colores
+	
+En esta clase es donde se crear los botones para poder poner su tamaño también se crea como tal la interfaz que serían los botones de: Undo, clear  como el  ComboBox donde se coloca el orden de los colores que se implementaran para el coloreado de las figuras y finalmente el JCheckBox es para que el usuario palomeé si quiere la figura rellena o no de algún color como también  los métodos los cuales nos permiten hacer las acciones de dibujar las figuras, rellenar de color las figuras, dejarlas sin relleno como el tipo de figura que se creara y los métodos de eliminar la última figura como todas las figuras ya que para poder hacer el método de eliminar una imagen antes se utilizó la ayuda de una pila para facilitar el procedimiento como para así saber cuál fue la última figura creada como tal pero los métodos más importantes para mi punto de vista fue la implementación de mouseReleased, MouseMotionListener, mouseDragged ya esto nos permite dibujar las figuras en cualquieraparte de la ventana con ayuda del mouse y las coordenadas ya que nos ayuda mucho para al momento de hacer es de demasiada ayuda para poder hacer click arrastra el mouse hasta donde queremos dibujar la figura y hasta soltar se accionará para que se cree la figura y al soltar él se pueda dibujar de manera satisfactoria de igual amnera utlize un arreglo para la el combox asi asignarle la posision de etique para la figura como para los colores
 
 ------------------------------------------------------------------------------------------------------------------------------------------ 
 
