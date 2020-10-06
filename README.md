@@ -265,8 +265,8 @@ satisfactoria  de igual amnera utlize un arreglo para la el combox asi asignarle
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Como tal en esta clase es la encargada de darle las posiciones al arreglo que con ayuda del ComboBox nos mostrara en la 
-interface los colores, entonces aqui se implentan distintos colores ya que con la ayuda de de java como se implento algunos 
-colores especificos con codigo hexadecimal ya que para esto tenemos que tomar en cuenta la posicion de el comboboc y el arreglo
+interface los colores, entonces aquí se implementan distintos colores ya que con la ayuda de java como se implantaron algunos 
+colores específicos con código hexadecimal ya que para esto tenemos que tomar en cuenta la posición del ComboBox y el arreglo
 para que funcione correctamente.
 ------------------------------------------------------------------------------------------------------------------------------------------
 	package figurasapps;
@@ -341,8 +341,8 @@ para que funcione correctamente.
 	}
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-Esta clase basicamente se encargar de poner a funcionar todas las clases en cinjutno para la correcta ejecuacion y de igual manera se la pasan
-dos parametros que son los tamaños de la ventana de la interface que llega a visualizar el usuario
+Esta clase básicamente se encargar de poner a funcionar todas las clases en conjunto para la correcta ejecución y de igual manera se la pasan
+dos parámetros que son los tamaños de la ventana de la interface que llega a visualizar el usuario
 -------------------------------------------------------------------------------------------------------------------------------------------
 package figurasapps;
 	public class Run {
